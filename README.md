@@ -4,7 +4,8 @@ Este proyecto implementa un agente de aprendizaje por refuerzo que aprende a nav
 
 📹 Demostración
 ¡Mira al agente en acción!
-<video src="[https://github.com/catalina-delgado/Reinforcemet-Learning---Agent-Maze/blob/main/deep-Q-3.mp4]" controls autoplay loop width="600" />
+<video src="https://raw.githubusercontent.com/catalina-delgado/Reinforcemet-Learning---Agent-Maze/main/deep-Q-3.mp4" controls width="600">
+</video>
 
 ## Objetivo del Proyecto
 Desarrollar un agente que, partiendo sin conocimiento previo, sea capaz de:
